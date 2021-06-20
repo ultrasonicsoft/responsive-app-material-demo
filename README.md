@@ -1,5 +1,11 @@
-# ResponsiveAppDemo
+# Responsive App Demo
+## Playing with Angular Material BreakpointObserver
 
+This project shows how to update UI layout against different layouts e.g. Mobile, Tablet, web etc.
+
+You can find more details [here](https://material.angular.io/cdk/layout/overview)
+
+## Default README 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
 ## Development server
